@@ -1,15 +1,14 @@
 [
-    {
-      "name": "YouFit-APP",
-      "live": "https://youfitapp.netlify.app",
-      "git": "https://github.com/Jordintaylor095/YouFit-APP",
-      "image": "https://user-images.githubusercontent.com/110190777/186725899-fcb542f3-1700-4609-9a09-7e70c2265deb.png"
-    
-    },
-    {
-      "name": "BeautyBar",
-      "live": "https://beautybarapp.netlify.app",
-      "git": "https://github.com/Jordintaylor095/BeautyBar",
-      "image": "https://user-images.githubusercontent.com/110190777/190539283-16df898e-21a0-4041-a5da-08706519d328.png"
-    }
-  ]
+  {
+    "name": "YouFit-APP",
+    "live": "https://youfitapp.netlify.app",
+    "git": "https://github.com/Jordintaylor095/YouFit-APP",
+    "image": "https://user-images.githubusercontent.com/110190777/186725899-fcb542f3-1700-4609-9a09-7e70c2265deb.png"
+  },
+  {
+    "name": "BeautyBar",
+    "live": "https://beautybarapp.netlify.app",
+    "git": "https://github.com/Jordintaylor095/BeautyBar",
+    "image": "https://user-images.githubusercontent.com/110190777/190539283-16df898e-21a0-4041-a5da-08706519d328.png"
+  }
+]
