@@ -1,14 +1,15 @@
 [
     {
-      "name": "project1",
+      "name": "YouFit-APP",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/Jordintaylor095/YouFit-APP",
+      "image": "https://user-images.githubusercontent.com/110190777/186725899-fcb542f3-1700-4609-9a09-7e70c2265deb.png"
+    
     },
     {
-      "name": "project2",
+      "name": "BeautyBar",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/Jordintaylor095/BeautyBar",
+      "image": "https://user-images.githubusercontent.com/110190777/190539283-16df898e-21a0-4041-a5da-08706519d328.png"
     }
   ]
